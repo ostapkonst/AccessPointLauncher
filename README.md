@@ -5,12 +5,16 @@
 
 ## Установка
 
+```
 AccessPointLauncher -mode=install -run_installed=yes
 AccessPointLauncher -mode=shared
+```
 
 ## Удаление
 
+```
 AccessPointLauncher -mode=uninstall
+```
 
 ## Команды
 
